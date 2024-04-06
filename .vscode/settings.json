@@ -1,0 +1,10 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.portWin": "COM5",
+  "idf.adapterTargetName": "esp32",
+  "cmake.ctestPath": "C:\\Espressif\\v4.4.4\\esp-idf",
+  "cmake.cmakePath": "C:\\Espressif\\v4.4.4\\esp-idf",
+  "files.associations": {
+    "i2c_lcd.h": "c"
+  }
+}
