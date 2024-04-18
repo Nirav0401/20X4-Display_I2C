@@ -10,7 +10,7 @@ This example demonstrates basic usage of I2C driver by reading and writing to a 
 
 To run this example, you should have one ESP32, ESP32-S or ESP32-C based development board, Character Display, USB cable and other required cables for master-slave connections.
 
-The Character Displays operates at 5V Input supply hence 5V source is required for input to the Display.
+The Character Displays operates at 5V Input supply hence 5V source is required for the input to the Display.
 
 #### Pin Assignment:
 
